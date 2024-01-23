@@ -20,7 +20,7 @@ class _InputPageState extends State<InputPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Recipe App - Input'),
+        title: Text('Unfold the recipe'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
