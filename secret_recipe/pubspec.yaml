@@ -74,6 +74,36 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+    - family: Satisfy
+      fonts:
+        - asset: fonts/Satisfy-Regular.ttf
+    - family: GFSDidot
+      fonts:
+        - asset: fonts/GFSDidot-Regular.ttf
+    - family: GildaDisplay
+      fonts:
+        - asset: fonts/GildaDisplay-Regular.ttf
+    - family: PlayfairDisplaySC
+      fonts:
+        - asset: fonts/PlayfairDisplaySC-Black.ttf
+          weight: 900
+        - asset: fonts/PlayfairDisplaySC-BlackItalic.ttf
+          weight: 900
+          style: italic
+        - asset: fonts/PlayfairDisplaySC-Bold.ttf
+          weight: 700
+        - asset: fonts/PlayfairDisplaySC-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: fonts/PlayfairDisplaySC-Italic.ttf
+          style: italic
+        - asset: fonts/PlayfairDisplaySC-Regular.ttf
+        
+        
   # fonts:
   #   - family: Schyler
   #     fonts:
