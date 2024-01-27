@@ -15,3 +15,9 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+class AppData {
+  static List<String> history = [];
+  static Map<int, int> dailyTotalCalories = {};
+  static Map<String, int> dateAdded = {};
+}

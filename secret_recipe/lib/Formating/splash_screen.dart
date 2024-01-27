@@ -1,7 +1,7 @@
 // splash_screen.dart
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:secret_recipe/input_page.dart';
+import 'package:secret_recipe/pages/input_page.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
